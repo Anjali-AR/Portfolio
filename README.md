@@ -22,13 +22,16 @@ Tools & Platforms: GitHub, VS Code,Linx,window
 #Professional Experience
 
 Software Engineering Intern
+
 HCL	Sep 2019 – Jan 2021
+
 Assisted in developing and maintaining software components using Python and Java
 Debugged and resolved application issues to improve performance and reliability
 Collaborated with team members using Git for version control
 Followed software development best practices and documentation standards
 <!---------------------------------------------------------------------------------------------------------------------------->
 #Projects 
+
 Image Classification Using Neural Networks
 Designed and implemented a basic neural network for classifying RGB images into multiple categories
 Applied data preprocessing techniques and evaluated model performance
@@ -52,6 +55,7 @@ Time management and adaptability
 Willingness to learn new technologies
 <!---------------------------------------------------------------------------------------------------------------------------->
 #Career Objective
+
 Seeking an entry-level Software Engineer position where I can apply my programming skills, grow as a developer, and contribute to impactful software solutions.
 
 

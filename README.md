@@ -14,9 +14,13 @@ Bachelor of Computer Applications (BCA)
 #Technical Skills
 
 Programming Languages: Python,C++
+
 Web Technologies: HTML, CSS
+
 Databases: MySQL
+
 AI / ML: Neural Networks (Basics), Deep Learning Fundamentals 
+
 Tools & Platforms: GitHub, VS Code,Linx,window
 <!---------------------------------------------------------------------------------------------------------------------------->
 #Professional Experience
@@ -25,23 +29,23 @@ Software Engineering Intern
 
 HCL	Sep 2019 – Jan 2021
 
-Assisted in developing and maintaining software components using Python and Java
+Assisted in developing and maintaining software components using Python and Java.
 Debugged and resolved application issues to improve performance and reliability
-Collaborated with team members using Git for version control
-Followed software development best practices and documentation standards
+Collaborated with team members using Git for version control and
+Followed software development best practices and documentation standards.
 <!---------------------------------------------------------------------------------------------------------------------------->
 #Projects 
 
-Image Classification Using Neural Networks
-Designed and implemented a basic neural network for classifying RGB images into multiple categories
-Applied data preprocessing techniques and evaluated model performance
-Technologies: Python, Deep Learning fundamentals
+Image Classification Using Neural Networks.
+Designed and implemented a basic neural network for classifying RGB images into multiple categories.
+Applied data preprocessing techniques and evaluated model performance.
+Technologies: Python, Deep Learning fundamentals.
 <!--------------------------------------------------------------------------------------------------------------------------->
 Personal Portfolio Website
 
-Built a responsive personal portfolio to showcase skills and projects
-Focused on clean UI design and accessibility
-Technologies: HTML, CSS, JavaScript
+Built a responsive personal portfolio to showcase skills and projects.
+Focused on clean UI design and accessibility.
+Technologies: HTML, CSS, JavaScript.
 <!--------------------------------------------------------------------------------------------------------------------------->
 #Certifications
 

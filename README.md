@@ -12,6 +12,8 @@ Auburn University at Montgomery (AUM), USA
 Bachelor of Computer Applications (BCA)
  SASTRA University, Chennai, India
 <!---------------------------------------------------------------------------------------------------------------------------->
+
+
 **#Technical Skills**
 
 Programming Languages: Python,C++
@@ -36,6 +38,8 @@ Debugged and resolved application issues to improve performance and reliability
 Collaborated with team members using Git for version control and
 Followed software development best practices and documentation standards.
 <!---------------------------------------------------------------------------------------------------------------------------->
+
+
 **#Projects**
 
 Image Classification Using Neural Networks.
@@ -43,16 +47,22 @@ Designed and implemented a basic neural network for classifying RGB images into 
 Applied data preprocessing techniques and evaluated model performance.
 Technologies: Python, Deep Learning fundamentals.
 <!--------------------------------------------------------------------------------------------------------------------------->
+
+
 **Personal Portfolio Website**
 
 Built a responsive personal portfolio to showcase skills and projects.
 Focused on clean UI design and accessibility.
 Technologies: HTML, CSS, JavaScript.
 <!--------------------------------------------------------------------------------------------------------------------------->
+
+
 **#Certifications**
 
 NVIDIA – Fundamentals of Deep Learning
 <!---------------------------------------------------------------------------------------------------------------------------->
+
+
 **#Soft Skills**
 
 Problem-solving and analytical thinking

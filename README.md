@@ -29,6 +29,7 @@ Tools & Platforms: GitHub, VS Code,Linx,window
 
 **#Professional Experience**
 
+
 Software Engineering Intern
 
 HCL	Sep 2019 – Jan 2021
@@ -38,6 +39,7 @@ Debugged and resolved application issues to improve performance and reliability
 Collaborated with team members using Git for version control and
 Followed software development best practices and documentation standards.
 <!---------------------------------------------------------------------------------------------------------------------------->
+
 
 
 **#Projects**
@@ -57,10 +59,12 @@ Technologies: HTML, CSS, JavaScript.
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 
+
 **#Certifications**
 
 NVIDIA – Fundamentals of Deep Learning
 <!---------------------------------------------------------------------------------------------------------------------------->
+
 
 
 **#Soft Skills**

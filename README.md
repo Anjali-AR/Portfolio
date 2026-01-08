@@ -61,7 +61,6 @@ Time management and adaptability
 Willingness to learn new technologies
 <!---------------------------------------------------------------------------------------------------------------------------->
 
-
 #Career Objective
 
 Seeking an entry-level Software Engineer position where I can apply my programming skills, grow as a developer, and contribute to impactful software solutions.
